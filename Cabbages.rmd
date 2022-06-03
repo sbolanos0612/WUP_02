@@ -28,12 +28,16 @@ $H_A$:There is a difference between the vitamin C content based on the cultivati
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+We are explaining a vitamin c numerical variable by examining the categorical variable cultivation. We will use the T test to compare the mean of the two vitamin c groups. 
 
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
 ## Descriptive Results
+```{r}
+boxplot(VitC~Cult,data=veggy)
+```
 
 ### Graphical Descriptive Results
 
