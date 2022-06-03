@@ -65,3 +65,5 @@ Based on our two sample T test, we can infer that the P-value is 0.00000003405. 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The difference between the two categories we had, cultivation methods c39 and c52 were found to have a numerical difference in the vitamin c produced in the cabbages made. We rejected the null hypothesis after seeing the results of the T test. The c39 had a mean of 51.5 while the c52 group had a mean of 64.5. The p-value from this test was 0.00000003405.
